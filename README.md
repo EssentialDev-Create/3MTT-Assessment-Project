@@ -1,4 +1,2 @@
-# 3MTT-Assessment-Project
-3MTT Cohort 3 HTML Learning Track Assessment Project 
-Mini Project Assessment: Personal Profile Page with HTML only
-This project is aimed to create a personal webpage using only HTML elements 
+# 3MTT Cohort 3-Assessment-Project
+Mini Project Assessment: This project is created to acheive a Personal Profile Webpage using only HTML elements 
